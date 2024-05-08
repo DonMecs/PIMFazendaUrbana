@@ -4,4 +4,6 @@ Link Site utilizado para criação de Diagramas(UseCase): https://online.visual-
 Link Site utilizado para tirar dúvidas sobre UseCase: https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml [22/04/2024]
 Link Site utilizado para tirar dúvidas sobre UseCase: https://www.e-education.psu.edu/geog468/l8_p4.html [07/05/2024]
 
-Link Site itilizado para tirar dúvidas sobre Diagramas(atividade): https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-atividades-uml [07/05/2024]
+Link Site itilizado para tirar dúvidas sobre Diagramas de atividade: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-atividades-uml [07/05/2024]
+Link Site itilizado para tirar dúvidas sobre Diagramas de atividade: https://unbarqdsw2021-2.github.io/2021.2_G3_stag.io/Modelagem/MD/DiagramaDeAtividades/ [08/05/2024]
+
